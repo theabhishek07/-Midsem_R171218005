@@ -1,0 +1,10 @@
+This is my first version control program:-
+
+#include <iostream>  
+using namespace std;  
+void func() {    
+   static int i=0; //static variable    
+   int j=0; //local variable    
+   i++;    
+   j++;    
+ 
