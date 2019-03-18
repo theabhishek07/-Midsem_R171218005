@@ -6,5 +6,6 @@ void func() {
    static int i=0; //static variable    
    int j=0; //local variable    
    i++;    
-   j++;    
- 
+   j++;        
+   cout<<"i=" << i<<" and j=" <<j<<endl;    
+   
